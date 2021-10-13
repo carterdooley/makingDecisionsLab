@@ -47,7 +47,11 @@ if (amysAge > brittanisAge) {
 */
 
 //CODE HERE
-
+if (amysBirthYear === brittanisBirthYear) {
+  console.log("Amy and Brittani were born")
+} else {
+  console.log("Amy and Brittani were not born in the same year")
+}
 
 ////////// PROBLEM 4 //////////
 
@@ -60,7 +64,9 @@ let rain = true
 */
 
 //CODE HERE
-
+if (temperature >= 80) {
+  console.log("Wear a tshirt")
+}
 
 ////////// PROBLEM 5 //////////
 
