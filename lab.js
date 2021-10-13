@@ -23,7 +23,7 @@ var brittanisBirthYear = 1986
 //CODE HERE
 
 
-////////// PROBLEM 3 //////////
+////////// PROBLEM 3 /////////
 
 /*
   Using an if statement and a comparison operator, create code that will check if Amy and Brittani were born in the same year. If they were, console.log 'Amy & Brittani were born in the same year'. If they were not, console.log 'Amy & Brittani were not born in the same year'
