@@ -124,7 +124,12 @@ let passingScore = 7
 */
 
 //CODE HERE
-
+while (passingScore > score) {
+  score++
+  if (score < 8) {
+  console.log('Your score is not high enough')
+  }
+}
 ////////// INTERMEDIATE PROBLEMS //////////
 
 ////////// PROBLEM 9 //////////
