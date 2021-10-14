@@ -86,7 +86,7 @@ if (temperature > 80 && rain ==true) {
 
 //CODE HERE
 
-for (let a = 0; a <= 11; a++) {
+for (let a = 0; a < 10; a++) {
   console.log("Hello")
 }
 
@@ -97,7 +97,9 @@ for (let a = 0; a <= 11; a++) {
 */
 
 //CODE HERE
-
+for (let b = 1; b < 11; b++) {
+  console.log(b)
+}
 
 ////////// PROBLEM 7 //////////
 
@@ -106,6 +108,11 @@ for (let a = 0; a <= 11; a++) {
 */
 
 //CODE HERE
+for (let c = 10; c > 0; c--) {
+  console.log(c)
+}
+
+
 
 let score = 0
 let passingScore = 7
